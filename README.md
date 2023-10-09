@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AadityaAnand
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Data Science Projects
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently pursuing Masters in CS @UMBC
+- 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me - aadityaanand271@gmail.com
 
 <!---
