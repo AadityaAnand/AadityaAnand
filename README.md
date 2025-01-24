@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently pursuing Masters in CS @UMBC
 - 💞️ I’m looking to collaborate on anything interesting
-- 📫 How to reach me - aadityaanand271@gmail.com
+- 📫 How to reach me - aanand2@umbc.edu
 
 <!---
 AadityaAnand/AadityaAnand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
